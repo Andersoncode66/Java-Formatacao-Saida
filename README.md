@@ -25,11 +25,6 @@ Em java, a formatação de saída é essencial para apresentar resultados de for
 Java
 
 
-# Como utilizar
-1. Clone este repositório para seu ambiente local.
-2. Compile e execute os arquivos Java  para ver os exemplos em ação.
-
-
 ### 1. Formatação com String.format()
 O método String.format() permmite a criação de uma string formatada com precisão de números, casas decimais e alinhamento de valores.
 
@@ -134,4 +129,8 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 # Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+# Conclusão
+Este repositório oferece uma visão prática e acessível sobre como realizar formatação de saída em Java, cobrindo desde o básico até técnicas mais avançadas. A capacidade de apresentar dados em forma clara e organizada é uma habilidade essencial para qualquer desenvolvedor, e espero que os exemplos aqui fornecidos ajudem aprimorar sua compressão e aplicação desses conceitos.
+
 
